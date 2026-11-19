@@ -1,3 +1,3 @@
 # cep
 
-A new Flutter project.
+Um projeto flutter que consulta o CEP.
